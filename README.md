@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="">
   <a href="https://www.cnblogs.com/forforever/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Komomon's%20Page!&center=False&size=27">
   </a>

@@ -13,7 +13,7 @@ look https://github.com/younger-1/
 - 📖 [**komomon's blog**](https://www.cnblogs.com/forforever/)
 - 🔭 hacker
 - 👩‍💻 3 years of work.
-- ⚡ Python / PHP / GO / Powershell /JavaScript.
+- ⚡ Python / PHP / GO / Powershell / JavaScript.
 
 
 My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor

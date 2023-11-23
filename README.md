@@ -12,7 +12,7 @@ look https://github.com/younger-1/
 # Hi there 👋
 - 📖 [**komomon's blog**](https://www.cnblogs.com/forforever/)
 - 🔭 hacker
-- 👩‍💻 2 years of work.
+- 👩‍💻 x years of work.
 - ⚡ Python / PHP / GO / Powershell / JavaScript.
 
 

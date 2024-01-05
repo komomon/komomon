@@ -13,7 +13,7 @@ look https://github.com/younger-1/
 - 📖 [**komomon's blog**](https://www.cnblogs.com/forforever/)
 - 🔭 hacker
 - 👩‍💻 x years of work.
-- ⚡ Python / PHP / GO / Powershell / JavaScript.
+- ⚡ Python / PHP / GO / Powershell.
 
 
 My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor
@@ -55,7 +55,10 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visit
 ## 🏳‍🌈 My Projects
 > the projects I'm working on
 
-[![Komo](https://github-readme-stats.vercel.app/api/pin?username=komomon&repo=Komo&theme=radical)](https://github.com/komomon/Komo)[![CVE-2022-30190-follina-Office-MSDT-Fixed](https://github-readme-stats.vercel.app/api/pin?username=komomon&repo=CVE-2022-30190-follina-Office-MSDT-Fixed&theme=radical)](https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed)
-
+[![Komo](https://github-readme-stats.vercel.app/api/pin?username=komomon&repo=Komo&theme=radical)](https://github.com/komomon/Komo)
+[![CVE-2022-30190-follina-Office-MSDT-Fixed](https://github-readme-stats.vercel.app/api/pin?username=komomon&repo=CVE-2022-30190-follina-Office-MSDT-Fixed&theme=radical)](https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed)
+[![komoproxy](https://github-readme-stats.vercel.app/api/pin?username=komomon&repo=komoproxy&theme=radical)](https://github.com/komomon/komoproxy)
+[![Dcerpc_Find_OSInfo](https://github-readme-stats.vercel.app/api/pin?username=komomon&repo=Dcerpc_Find_OSInfo&theme=radical)](https://github.com/komomon/Dcerpc_Find_OSInfo)
+<!--[![Mytools](https://github-readme-stats.vercel.app/api/pin?username=komomon&repo=Mytools&theme=radical)](https://github.com/komomon/Mytools)-->
 
 
